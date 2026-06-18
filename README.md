@@ -1,2 +1,2 @@
 # spotify clone
-basic ui applicat
+basic ui 
